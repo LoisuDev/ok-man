@@ -10,7 +10,7 @@ module.exports.run = async (bot, message, args) => {
         .addField('Signe astro', 'Scorpion')
         .addField('Taille/poids', '1,50m / 46kgs')
         .addField('Style de musique préféré', "La musique occidentale, mais elle s'intéresse à tous les genres")
-        .addField('Style vestimentaire', 'Azusa préfère porter son T-shirt par dessus sa jupe. Elle adore les pentalons courts également')
+        .addField('Style vestimentaire', 'Azusa adore les pantalons par dessus la jupe. Elle adore les pantalons courts également')
         .addField('Style de chambre', "Très bien rangée. Pas excessivement mignon. La chambre d'Azusa est typique d'une fille de son âge.")
         .addField('Nourriture préférée', "En fait, elle aime les gâteaux et cache ce fait pour éviter de tomber dans l'habitude de boire du thé du Light Music Club, mais son secret est révélé.")
         .addField('Sa passion', 'Jouer de la guitare (surtout électrique)')
